@@ -4,7 +4,7 @@
 ##
 image:
   repository: postgres
-  tag: "11.5"
+  tag: "11.6"
   pullPolicy: IfNotPresent
 
   ## Optionally specify an imagePullSecret.
